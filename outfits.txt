@@ -1,0 +1,10 @@
+top|Black T Shirt|Black|Nike|Summer|Casual
+bottom|Blue Jeans|Blue|Levis|Winter|Casual
+shoes|White Sneakers|White|Adidas|AllSeason|Sport
+accessory|Silver Watch|Silver|Casio|AllSeason|Formal
+---
+top|Hoodie Jacket|Gray|Puma|Winter|Streetwear
+bottom|Cargo Pants|Khaki|Outfitters|Autumn|Casual
+shoes|Running Shoes|Black|Skechers|Summer|Sport
+accessory|Sun Glasses|Black|RayBan|Summer|Fashion
+---
